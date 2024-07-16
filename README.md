@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hi, I'm Javi!</h2>
 ###
 <h5 align="left">I'm currently doing full-stack development at the Tufts Center for Engineering Education and Outreach. :elephant::elephant:</h5>
-<h5>On the side, I do various engineering and web dev projects. Check out some cool stuff
-  <a href="https://www.goldmanwilliam.com/" rel="noopener noreferrer" target="_blank"> here</a>
-!</h5>
+<h5>I am a junior at Tufts University majoring in Computer Science</h5>
 ###
 <h5 align="left">Languages:</h5>
 ###
