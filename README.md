@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi, I'm Javi!</h2>
+
 ###
 <h5 align="left">I'm currently doing full-stack development at the Tufts Center for Engineering Education and Outreach. :elephant::elephant:</h5>
 <h5>I am a junior at Tufts University majoring in Computer Science</h5>
+
 ###
 <h5 align="left">Languages:</h5>
+
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
@@ -35,8 +38,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" alt="c++ logo" />
           
 </div>
+
 ###
 <h5 align="left">Contact Me:</h5>
+
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/javier-laveaga-4220aa268/" target="_blank">
@@ -46,4 +51,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
+
 ###
