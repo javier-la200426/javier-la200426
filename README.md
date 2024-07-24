@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hi, I'm Javi!</h2>
 
 ###
-<h5 align="left">I'm currently doing full-stack development at the Tufts Center for Engineering Education and Outreach. :elephant::elephant:</h5>
+<h5 align="left">I'm currently doing back-end and front-end development at the Tufts Center for Engineering Education and Outreach. :elephant::elephant:</h5>
 <h5>I am a junior at Tufts University majoring in Computer Science</h5>
 
 ###
