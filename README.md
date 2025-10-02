@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi, I'm Javier!</h2>
 
+<p align="left">🌐 Personal Website: <a href="https://www.javierlaveaga.com/" target="_blank">javierlaveaga.com</a></p>
+
 ###
 <h5 align="left">I'm currently doing back-end and front-end development at Tufts. :elephant::elephant:</h5>
 <h5>I am a senior at Tufts University majoring in Computer Science</h5>
@@ -56,5 +58,3 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-<p align="left">🌐 Personal Website: <a href="https://www.javierlaveaga.com/" target="_blank">javierlaveaga.com</a></p>
