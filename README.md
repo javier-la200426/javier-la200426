@@ -1,4 +1,3 @@
-
 <!--
 **javier-la200426/javier-la200426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,13 +44,6 @@ Here are some ideas to get you started:
   <img width="12" />
 </div>
 
-
-
-
-          
-          
-</div>
-
 ###
 <h5 align="left">Contact Me:</h5>
 
@@ -65,4 +57,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
+<p align="left">🌐 Personal Website: <a href="https://www.javierlaveaga.com/" target="_blank">javierlaveaga.com</a></p>
