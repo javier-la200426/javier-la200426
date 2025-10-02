@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in/javier-laveaga-4220aa268/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-laveaga/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:javier.la200426@gmail.com" target="_blank">
